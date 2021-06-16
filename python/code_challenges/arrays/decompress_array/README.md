@@ -22,14 +22,14 @@ Output: [1,3,3]
 ```
 ## Approach & Efficiency
 - create a new array, `result`
-- iterate over the given array, `nums`
-- use `.fill()` to fill a new array with the correct frequency of the value
-- spread that array and push it into the `result` array
+- iterate over the given array, `nums`, using `range(start, stop, step)`
+- step will be two, so we can skip a number each time
+- add the value `nums[i+1]` to the result array the number of times specified by the frequency `nums[i]`
 - return that array
 
 
-The Efficiency is O(n), for time and space since each element in the array needs to be accessed once.
+The Efficiency is O(n), for time and space since each element in the array needs to be accessed once and we're creating and returning a new array.
 
 ## Solution
-- [Array Shuffle JavaScript](./decompressArray.js)
-- [Array Shuffle Python](./python/code_challenges/arrays/array_shuffle/README.md)
+- [Array Shuffle Python](./decompress_array.py)
+- [Array Shuffle JavaScript](./javascript/arrays/decompressArray/README.md)
