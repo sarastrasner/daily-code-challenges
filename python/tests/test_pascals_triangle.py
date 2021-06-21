@@ -1,6 +1,9 @@
 import pytest
 from code_challenges.misc.pascals_triangle.pascals_triangle import PascalTriangle
 
+def test():
+    print('a')
+
 def pascals_triangle(capfd):
     PascalTriangle(0)
     out, err = capfd.readouterr()
