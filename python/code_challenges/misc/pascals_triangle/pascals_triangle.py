@@ -1,4 +1,3 @@
-
 def PascalTriangle(n):
    trow = [1]
    y = [0]
