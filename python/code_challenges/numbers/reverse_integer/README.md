@@ -51,4 +51,4 @@ def reverse(x):
 ```
 
 - [Python Solution](./reverse_integer.js)
-- [JavaScript Solution](../../../../javascript/misc/reverseInteger/README.md)
+- [JavaScript Solution](../../../../javascript/numbers&math/reverseInteger/README.md)
