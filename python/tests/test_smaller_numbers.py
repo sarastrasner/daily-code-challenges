@@ -1,4 +1,7 @@
-from python.code_challenges.arrays.smaller_numbers.smaller_numbers import smallerNumbersThanCurrent
+from  import smallerNumbersThanCurrent
+
+
+# from code_challenges.arrays.smaller_numbers.smaller_numbers import smallerNumbersThanCurrent
 import pytest
 
 def test_smaller_numbers():
