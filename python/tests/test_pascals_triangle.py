@@ -1,5 +1,5 @@
 import pytest
-from code_challenges.misc.pascals_triangle.pascals_triangle import PascalTriangle
+from code_challenges.misc.pascals_triangle.pascals_triangle import PascalTriangle # type: ignore
 
 
 def test_pascals_triangle(capfd):

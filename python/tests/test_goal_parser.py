@@ -1,5 +1,5 @@
 import pytest
-from code_challenges.strings.goal_parser.goal_parser import interpret
+from code_challenges.strings.goal_parser.goal_parser import interpret # type: ignore
 
 
 def test_goal_parser():

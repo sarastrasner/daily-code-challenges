@@ -1,5 +1,5 @@
 import pytest
-from code_challenges.arrays.ordered_array.ordered_array import createTargetArray
+from code_challenges.arrays.ordered_array.ordered_array import createTargetArray # type: ignore
 
 def test_create_target_array():
   nums = [0,1,2,3,4]

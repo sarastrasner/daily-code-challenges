@@ -1,5 +1,5 @@
 import pytest
-from code_challenges.arrays.decompress_array.decompress_array import decompressRLElist
+from code_challenges.arrays.decompress_array.decompress_array import decompressRLElist # type: ignore
 
 def test_decompress_array():
     list = [1, 2, 3, 4]

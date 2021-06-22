@@ -1,5 +1,5 @@
 import pytest
-from code_challenges.numbers.palindrome_number.palindrome_number import isPalindrome
+from code_challenges.numbers.palindrome_number.palindrome_number import isPalindrome # type: ignore
 
 def test_palindrome_number():
   actual = isPalindrome(121)

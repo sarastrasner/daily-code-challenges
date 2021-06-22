@@ -1,5 +1,5 @@
 import pytest
-from code_challenges.arrays.array_shuffle.array_shuffle import shuffle
+from code_challenges.arrays.array_shuffle.array_shuffle import shuffle # type: ignore
 
 def test_array_shuffle():
     nums = [2,5,1,3,4,7]
