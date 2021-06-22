@@ -1,5 +1,5 @@
+from python.code_challenges.arrays.smaller_numbers.smaller_numbers import smallerNumbersThanCurrent
 import pytest
-from code_challenges.arrays.smaller_numbers.smaller_numbers import smallerNumbersThanCurrent
 
 def test_smaller_numbers():
     list = [8,1,2,2,3]
