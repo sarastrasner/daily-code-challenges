@@ -1,5 +1,5 @@
 import pytest
-from code_challenges.arrays.running_total.running_total import runningSum
+from code_challenges.arrays.running_total.running_total import runningSum # type: ignore
 
 
 def test_running_sum():

@@ -1,5 +1,5 @@
 import pytest
-from code_challenges.numbers.reverse_integer.reverse_integer import reverse
+from code_challenges.numbers.reverse_integer.reverse_integer import reverse # type: ignore
 
 def test_reverse():
     actual = reverse(123)

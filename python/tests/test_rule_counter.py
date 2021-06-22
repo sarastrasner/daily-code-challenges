@@ -1,5 +1,5 @@
 import pytest
-from code_challenges.arrays.rule_counter.rule_counter import countMatches
+from code_challenges.arrays.rule_counter.rule_counter import countMatches # type: ignore
 
 
 def test_countMatches():
