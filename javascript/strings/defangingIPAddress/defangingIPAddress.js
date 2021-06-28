@@ -1,5 +1,5 @@
 const defangIPaddr = (address) => {
-  return address.replaceAll('.', '[.]');
+  return address.replace(/\./g, '[.]');
 };
 
 module.exports = defangIPaddr;
