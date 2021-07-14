@@ -4,6 +4,7 @@ A repo for my daily data structures and algorithms code challenges. My goal is t
 
 | Day      | JavaScript Challenges |Python Challenges      | 
 | ----------- | ----------- |----------- |
+| Wednesday July 14, 2021    | - [JS: Next Greater Element](./javascript/arrays/nextGreaterElement/README.md)<br/> - [JS: Shortest Distance](./javascript/arrays/shortestDistance/README.md)    |- [Python](--)<br/>- [Python](---)        |
 | Thursday July 1, 2021    | - [JS: Merge Sorted Arrays](./javascript/arrays/mergeSortedArrays/README.md)<br/>- [JS:Third Maximum Number](./javascript/arrays/thirdMaximumNumber/README.md)        |- [Python: Merge Sorted Arrays](./python/code_challenges/arrays/merge_sorted_arrays/README.md)<br/>- [Python: Third Maximum Number](./python/code_challenges/arrays/third_maximum_number/README.md)        |
 | Wednesday June 30, 2021    | - [JS: Plus One](./javascript/arrays/plusOne/README.md)<br/>- [JS: Buddy Strings](./javascript/strings/buddyStrings/README.md)        |- [Python: Plus One](./python/code_challenges/arrays/plus_one/README.md)<br/>- [Python: Buddy Strings](./python/code_challenges/strings/buddy_strings/README.md)        |
 | Tuesday June 29, 2021    | - [JS: Length of Last Word](./javascript/strings/lengthOfLastWord/README.md)<br/>- [JS: Maximum Subarray](./javascript/arrays/maximumSubarray/README.md)        |- [Python: Length of Last Word](./python/code_challenges/strings/length_of_last_word/README.md)<br/>- [Python: Maximum Subarray](./python/code_challenges/arrays/maximum_subarray/README.md)        |
